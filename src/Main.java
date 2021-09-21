@@ -26,7 +26,7 @@ public class Main {
         television3.togglePower();
         television3.setChannelNumber(44);
 
-        television3.increaseVolumeLevel();
+
         television3.increaseVolumeLevel();
         television3.increaseVolumeLevel();
         System.out.println("TV Serial Number: " + television3.generateId());
